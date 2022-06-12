@@ -1,0 +1,79 @@
+.weather-app {
+  max-width: 650px;
+  margin: 80px auto 10px;
+  padding: 30px;
+  border: 5px solid #9ba6df;
+}
+
+h1,
+h2,
+h4 {
+  color: #006ec5;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+}
+h2,
+h4 {
+  margin: 0px;
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 7px;
+  padding-bottom: 25px;
+}
+
+h2 {
+  font-size: 50px;
+}
+h4 {
+  font-style: italic;
+}
+p {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+small {
+  display: block;
+  margin: 0 auto;
+}
+.units {
+  font-size: 30px;
+  position: relative;
+  bottom: 30px;
+}
+.btn-primary {
+  background: #006ec5;
+}
+.current-weather-icon {
+  font-size: 72px;
+}
+.col {
+  color: #006ec5;
+  font-weight: bold;
+  padding: 0px 6px;
+}
+.card {
+  border: 0px;
+}
+
+.icon {
+  color: #006ec5;
+}
+
+.city {
+  padding-left: 12px;
+}
+.day {
+  margin-bottom: 6px;
+}
+.night {
+  opacity: 0.8;
+}
